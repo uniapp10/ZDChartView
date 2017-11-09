@@ -1,0 +1,7 @@
+
+[
+ { "imageName" : "moreKB_image",        "title" : "图片"},
+ { "imageName" : "moreKB_video_call",   "title" : "拍摄"},
+ { "imageName" : "moreKB_voice",        "title" : "语音"},
+ { "imageName" : "moreKB_location",     "title" : "位置"},
+ ]
